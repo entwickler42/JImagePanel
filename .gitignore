@@ -1,0 +1,10 @@
+# Generated binaries and caches
+*.class
+*.jar
+*.jar~
+Java/
+
+# IDE project metadata backups
+*.jpx.local
+*.jpx.local~
+*.jpx~
